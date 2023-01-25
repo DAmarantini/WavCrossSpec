@@ -7,11 +7,7 @@ A new statistical test based on the wavelet cross-spectrum to detect time–freq
 
 Jérémie Bigot (a,b), Marieke Longcamp (c,e), Fabien Dal Maso (c), David Amarantini (c,d)
 
-a: Institut de Mathématiques de Toulouse et CNRS (UMR 5219), Université de Toulouse, France
-b: Center for Mathematical Modelling, Universidad de Chile, Chile
-c: LAPMA, Université de Toulouse, France
-d: Département de kinésiologie, Centre de réadaptation Marie-Enfant, Université de Montréal, Montreal, Quebec, Canada
-e: INCM (UMR 6193), CNRS-Université de la Méditerranée, Marseille, France
+(a) Institut de Mathématiques de Toulouse et CNRS (UMR 5219), Université de Toulouse, France; (b) Center for Mathematical Modelling, Universidad de Chile, Chile; (c) LAPMA, Université de Toulouse, France; (d) Département de kinésiologie, Centre de réadaptation Marie-Enfant, Université de Montréal, Montreal, Quebec, Canada; (e) INCM (UMR 6193), CNRS-Université de la Méditerranée, Marseille, France
 
 NeuroImage 55 (2011) 1504–1518, https://doi.org/10.1016/j.neuroimage.2011.01.033
 
