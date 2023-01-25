@@ -1,5 +1,5 @@
 # WavCrossSpec
-Wavelet cross-spectrum and time-frequency dependence
+Wavelet cross-spectrum and time-frequency dependence, by Jérémie Bigot (https://sites.google.com/site/webpagejbigot/)
 
 --------------------
 
